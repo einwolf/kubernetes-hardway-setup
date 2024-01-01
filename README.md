@@ -8,9 +8,13 @@ Kubernetes the hard way.
 
 Using
 
+Host Fedora
 * Fedora 38
 * ansible-7.7.0-1.fc38.noarch
 * ansible-core-2.14.11-1.fc38.noarch
+
+Nodes Almalinux
+* Almalinux 9.3
 
 ## References
 

@@ -1,0 +1,9 @@
+- name: ansible.builtin.ping
+  ping:
+- name: Install packages
+  ansible.builtin.dnf:
+    name:
+    - NetworkManager-tui
+    state: present
+
+  
